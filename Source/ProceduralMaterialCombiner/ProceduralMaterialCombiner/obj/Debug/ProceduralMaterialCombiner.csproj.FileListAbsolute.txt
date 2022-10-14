@@ -1,0 +1,6 @@
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\ProceduralMaterialCombinator\1.3\Assemblies\ProceduralMaterialCombiner.dll
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\ProceduralMaterialCombinator\1.3\Assemblies\ProceduralMaterialCombiner.pdb
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\ProceduralMaterialCombinator\Source\ProceduralMaterialCombiner\ProceduralMaterialCombiner\obj\Debug\ProceduralMaterialCombiner.csproj.AssemblyReference.cache
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\ProceduralMaterialCombinator\Source\ProceduralMaterialCombiner\ProceduralMaterialCombiner\obj\Debug\ProceduralMaterialCombiner.csproj.CoreCompileInputs.cache
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\ProceduralMaterialCombinator\Source\ProceduralMaterialCombiner\ProceduralMaterialCombiner\obj\Debug\ProceduralMaterialCombiner.dll
+F:\Program Files (x86)\Steam\SteamApps\common\RimWorld\Mods\ProceduralMaterialCombinator\Source\ProceduralMaterialCombiner\ProceduralMaterialCombiner\obj\Debug\ProceduralMaterialCombiner.pdb
